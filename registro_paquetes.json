@@ -1,0 +1,48 @@
+[
+    {
+        "codigo": "PKG-00001",
+        "origen": "Madrid",
+        "destino": "Barcelona",
+        "ruta": [
+            "Madrid",
+            "Zaragoza",
+            "Barcelona"
+        ],
+        "distancia_total": 621,
+        "estado": "Entregado"
+    },
+    {
+        "codigo": "PKG-00002",
+        "origen": "Lisboa",
+        "destino": "Sevilla",
+        "ruta": [
+            "Lisboa",
+            "Sevilla"
+        ],
+        "distancia_total": 460,
+        "estado": "En tr\u00e1nsito"
+    },
+    {
+        "codigo": "PKG-00003",
+        "origen": "Bilbao",
+        "destino": "Valencia",
+        "ruta": [
+            "Bilbao",
+            "Zaragoza",
+            "Valencia"
+        ],
+        "distancia_total": 730,
+        "estado": "Pendiente de env\u00edo"
+    },
+    {
+        "codigo": "PKG-00004",
+        "origen": "Madrid",
+        "destino": "Barcelona",
+        "ruta": [
+            "Madrid",
+            "Barcelona"
+        ],
+        "distancia_total": 621,
+        "estado": "En tr\u00e1nsito"
+    }
+]
